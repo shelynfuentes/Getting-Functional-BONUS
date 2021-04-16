@@ -16,6 +16,12 @@ in the object.
 
 function averageBalance(array){
   //CODE BELOW HERE
+for (var i = 0; i <= array.length - 1; i++) {
+   (array[i].balance);
+   var totalSum = 0;
+   totalSum += array[i].balance
+}
+return totalSum/array.length
 
 
 
